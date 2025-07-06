@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Agrim","email":"agrimkhiladigref@gmail.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/chatbotfile.pbiviz.json"
+			}
+		],
+		"visual": {"name":"chatbot","displayName":"CustomChatbot","guid":"chatbotfile","visualClassName":"Visual","version":"1.0.0.0","description":"letsgo","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
