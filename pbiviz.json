@@ -1,0 +1,28 @@
+{
+    "visual":{
+        "name":"chatbot",
+        "displayName":"CustomChatbot",
+        "guid":"chatbotfile",
+        "visualClassName":"Visual",
+        "version":"1.0.0.0",
+        "description":"letsgo",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": "https://github.com/microsoft/PowerBI-visuals-circlecard"
+    },
+    "apiVersion":"5.3.0",
+    "author":{
+        "name":"Agrim",
+        "email":"agrimkhiladigref@gmail.com"
+    },
+    "assets":{
+        "icon":"assets/icon.png",
+        "image":"assets/image.png"
+    },
+    "externalJS": [],
+    "style":"style/visual.less",
+    "capabilities":"capabilities.json",
+    "dependencies":null,
+    "stringResources":[],
+    "version":"1.0.0.0"
+}
+
